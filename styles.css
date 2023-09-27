@@ -1,0 +1,27 @@
+/* ---lesson-task-1---
+* {
+        box-sizing: border-box;
+      }
+      .mountains {
+        width: 300px;
+        height: 500px;
+        background-image: url(nature.jpeg);
+        background-position: center;
+        background-size: cover;
+        font-size: 32px;
+        font-weight: 700;
+        color: white;
+        padding-top: 32px;
+        text-align: center;
+      } */
+/* ---lesson-task-2---
+.icon {
+        margin: 100px;
+        width: 100px;
+        height: 100px;
+        background-image: url(sprites.png);
+        background-position-x: -200px;
+      }
+      .icon:hover {
+        background-position-y: -100px;
+      } */
